@@ -1,0 +1,67 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="Las Estrellas" tvg-logo="https://i.imgur.com/g5ShxZ7.png" tvg-id="LasEstrellas.mx" group-title="Mexico",Las Estrellas
+https://channel01-onlymex.akamaized.net/hls/live/2022749/event01/index.m3u8
+
+#EXTINF:-1 tvg-name="Azteca Uno" tvg-logo="https://i.imgur.com/rRxgBtI.png" tvg-id="AztecaUno.mx" group-title="Mexico",Azteca UNO
+https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
+
+#EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://i.imgur.com/Og17U9N.png" tvg-id="ADN40.mx" group-title="Mexico",ADN 40
+https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
+
+#EXTINF:-1 tvg-name="Azteca 7" tvg-logo="https://i.imgur.com/bwbzaRE.png" tvg-id="Azteca7.mx" group-title="Mexico",Azteca 7
+https://mdstrm.com/live-stream-playlist/609ad46a7a441137107d7a81.m3u8
+
+#EXTINF:-1 tvg-name="Canal 22" tvg-logo="https://i.imgur.com/D9aO5do.png" tvg-id="Canal22Internacional.mx" group-title="Mexico",Canal 22
+https://5fc584f3f19c9.streamlock.net/canal22/smil:canal22.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="TV Cuatro" tvg-logo="https://i.imgur.com/Of044Jx.png" tvg-id="TV Cuatro" group-title="Mexico",TV Cuatro
+https://5f1af61612fb5.streamlock.net/tv4/tv4.smil/.m3u8
+
+#EXTINF:-1 tvg-name="Canal Once" tvg-logo="https://i.imgur.com/K0351vF.png" tvg-id="XEIPNTDT.mx" group-title="Mexico",Canal Once
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Capital 21" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Capital-21-TV-en-vivo-Online.png" tvg-id="Capital21.mx" group-title="Mexico",Capital 21
+https://video.cdmx.gob.mx/redes/stream.m3u8
+
+#EXTINF:-1 tvg-name="A+" tvg-logo="https://i.imgur.com/TWk9gfd.png" tvg-id="APlus.mx"group-title="Mexico",A+
+https://mdstrm.com/live-stream-playlist/60b56be1000ea50835fa1e63.m3u8
+
+#EXTINF:-1 tvg-name="DW" tvg-logo="https://i.imgur.com/A1xzjOI.png" tvg-id="DW.de" group-title="Mexico",DW
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
+
+#EXTINF:-1 tvg-name="RT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png" tvg-id="RTenEspanol.ru"group-title="Mexico",RT
+https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Bayres TV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKrroOZ4RYMYlzGqMQjiIO2QbRNVndEM9PiC-CaRn0PO2AoB_YKyrt6Eigzh4M1gPZaVn5udDL5YzrzxAmyQCj_HTF8Pszo46dk9dABt9TpepY43_IEzT80atZEMaiMcdrqt3lmxAbZYaLwCgr6vDUgV1HlvmhIOJ99UlwAhG2FoHgtCm13CWEugV7Bvg/w1200-h630-p-k-no-nu/bayres-tv-removebg-preview.png" tvg-id="Bayres TV"group-title="Argentina",Bayres TV
+https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
+
+#EXTINF:-1 tvg-name="Beats Radio" tvg-logo="https://i.imgur.com/zkNUO5p.png" tvg-id="Beats Radio"group-title="Argentina",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
+
+#EXTINF:-1 tvg-name="Red America TV" tvg-logo="https://i.imgur.com/qYNmeDe.png" tvg-id="Red America TV"group-title="Bolivia",Red America TV
+https://videostream.shockmedia.com.ar:19360/redamericatv/redamericatv.m3u8
+
+#EXTINF:-1 tvg-name="13C" tvg-logo="https://i.ibb.co/3fbvkZ3/13cultura.png" tvg-id="13C"group-title="Chile",13C
+https://origin.dpsgo.com/ssai/event/GI-9cp_bT8KcerLpZwkuhw/master.m3u8
+
+#EXTINF:-1 tvg-name="13E" tvg-logo="https://i.imgur.com/utI1tJV.png" tvg-id="13E"group-title="Chile",13E
+https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8
+
+#EXTINF:-1 tvg-name="Senal Colombia" tvg-logo="https://i.imgur.com/Y9x16vl.png" tvg-id="SenalColombia.co"group-title="Colombia",Senal Colombia
+https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="NHKWorldJapan" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png" tvg-id="NHKWorldJapan.jp"group-title="Japon",NHKWorldJapan
+https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+
+#EXTINF:-1 tvg-name="CGTNSpanish" tvg-logo="https://i.imgur.com/Poz3xfi.png" tvg-id="CGTNSpanish.cn"group-title="China",CGTNSpanish
+https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8
+
+#EXTINF:-1 tvg-name="France24" tvg-logo="https://i.imgur.com/u8N6uoj.png" tvg-id="France24.fr"group-title="France",France24
+https://a-cdn.klowdtv.com/live2/france24sp_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Antena3" tvg-logo="https://i.imgur.com/USbmwiC.png" tvg-id="Antena3.es"group-title="Spain",Antena3
+http://185.189.225.150:85/Antena3HD/index.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" tvg-id=""group-title="Costa Rica",
+
+
